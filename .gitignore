@@ -12,3 +12,5 @@ app/mail_magazine/*
 /release
 app/config/eccube/packages/framework_release.yaml
 /vendor/
+/html/plugin/*
+/app/Plugin/*
