@@ -1,0 +1,13 @@
+/var/*
+!/var/.gitkeep
+.env
+/phpMyAdmin
+/.vscode
+/staging
+app/config/eccube/packages/framework_staging.yaml
+.htaccess
+app/config/eccube/packages/framework_main.yaml
+app/Plugin/.composer/*
+app/mail_magazine/*
+/release
+app/config/eccube/packages/framework_release.yaml
